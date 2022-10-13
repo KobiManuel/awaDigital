@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "U8";
+    src: url(../fonts/U8/U8-Thin.otf);
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "U8";
+    src: url(../fonts/U8/U8-ThinSlanted.otf);
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "U8";
+    src: url(../fonts/U8/U8-Light.otf);
+    font-weight: 200;
+    font-style: normal;
+}
